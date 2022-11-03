@@ -1,0 +1,11 @@
+{
+  "AppName": "SaxoTraderUI",
+  "AppKey": "84eb0f4e497a462dac4e39218f4d3b72",
+  "AuthorizationEndpoint": "https://sim.logonvalidation.net/authorize",
+  "TokenEndpoint": "https://sim.logonvalidation.net/token",
+  "GrantType": "PKCE",
+  "OpenApiBaseUrl": "https://gateway.saxobank.com/sim/openapi/",
+  "RedirectUrls": [
+    "https://localhost:7288/startup"
+  ]
+}
